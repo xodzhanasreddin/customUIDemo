@@ -1,0 +1,12 @@
+.PanelModal {
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    margin-bottom: 15px;
+  }
+
+  &__item {
+    margin-bottom: 15px;
+  }
+}

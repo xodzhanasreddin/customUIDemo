@@ -1,0 +1,12 @@
+.PanelTabs {
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    display: flex;
+  }
+
+  &__body {
+    display: flex;
+  }
+}

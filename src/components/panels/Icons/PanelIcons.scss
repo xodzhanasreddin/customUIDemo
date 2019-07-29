@@ -1,0 +1,12 @@
+.PanelIcons {
+  &__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+
+    .Icon {
+      margin-right: 10px;
+    }
+
+  }
+}
